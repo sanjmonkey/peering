@@ -543,3 +543,13 @@ AS35432:
     peerings:
         - 80.249.210.178
         - 2001:7F8:1::A503:5432:1
+
+AS8426:
+    description: Claranet
+    import: AS-CLARANET
+    export: AS-COLOCLUE
+    peerings:
+        - 80.249.208.82
+        - 80.249.209.228
+        - 2001:7F8:1::A500:8426:1
+        - 2001:7F8:1::A500:8426:2
