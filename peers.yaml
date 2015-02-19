@@ -543,3 +543,11 @@ AS35432:
     peerings:
         - 80.249.210.178
         - 2001:7F8:1::A503:5432:1
+
+AS31122:
+    description: Viatel Ltd
+    import: AS-DIGIWEB
+    export: AS-COLOCLUE
+    peerings:
+        - 80.249.209.161
+        - 2001:7f8:1::a503:1122:1
